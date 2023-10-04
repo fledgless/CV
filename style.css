@@ -9,7 +9,7 @@ body{
 }
 
 .main-content{
-    min-height: 120vh;
+    min-height: 125vh;
     width: 50%;
     margin: 2rem auto;
     display: grid;
